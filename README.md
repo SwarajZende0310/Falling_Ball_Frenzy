@@ -35,7 +35,7 @@ Before you can run Falling Ball Frenzy, you'll need to have the following prereq
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/color-burst-clicker.git
+   git clone https://github.com/SwarajZende0310/Falling_Ball_Frenzy.git
    ```
 2. Compile the game using your C++ compiler and link it with the SFML   library:
    ```sh
